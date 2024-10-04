@@ -1,9 +1,19 @@
 let estados= ['AC','AM','AP','AL','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SP','SE','TO']
-let i = 0
-while (i<10 ) {console.log (i);
-
-    i= i+1 ;
-
-
-
+// let i = 0
+// while (i<estados.length) {
+// console.log (i);
+// console.lo(estados[i])
+// i++;
+// }
+for (let j = 0; j < array.length; j++) {
+console.log(j);
+console.log(estados[j]);  
 }
+
+
+
+
+
+
+
+

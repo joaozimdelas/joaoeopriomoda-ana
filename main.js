@@ -5,7 +5,7 @@ let estados= ['AC','AM','AP','AL','BA','CE','DF','ES','GO','MA','MT','MS','MG','
 // console.lo(estados[i])
 // i++;
 // }
-for (let j = 0; j < array.length; j++) {
+for (let j = 0; j < estados.length; j++) {
 console.log(j);
 console.log(estados[j]);  
 }
